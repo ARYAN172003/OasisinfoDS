@@ -1,7 +1,6 @@
 # OasisinfoDS
-Data Science
-Data Science Project
-This is a machine learning project that uses linear regression to predict sales based on advertising spending.
+
+This is a data science project that uses linear regression to predict sales based on advertising spending.
 
 Table of Contents
 Introduction
